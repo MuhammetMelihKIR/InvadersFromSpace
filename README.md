@@ -1,2 +1,2 @@
-# InvadersFromSpace
-Panteon Akademi 3. Oyun
+# PA2-InvadersFromSpace
+Invaders From Space
