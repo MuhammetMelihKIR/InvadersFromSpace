@@ -1,2 +1,2 @@
-# PA2-InvadersFromSpace
+#InvadersFromSpace
 Invaders From Space
